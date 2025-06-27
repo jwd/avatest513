@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-06-27T20:10:41.340Z",
+  "created_by": "jwd",
+  "title": "Test LC",
+  "slug": "test-lc",
+  "updated_at": "2025-06-27T20:10:41.340Z",
+  "updated_by": "jwd",
+  "parent": "38314d96-89de-4da8-a408-602ecf0e9a96",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "c28aac7f-24b7-4d59-8876-d9ed43ddfcc7"
+  }
+}
